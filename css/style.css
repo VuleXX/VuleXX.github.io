@@ -31,9 +31,6 @@ header{
 .header__item{
     padding-right: 15px;
 }
-.header__item:last-child{
-    /* padding-right: 85px; */
-}
 .header__link{
     text-decoration: none;
     color: white;
@@ -56,6 +53,8 @@ header{
 }
 
 .hero__text{
+    font-family: 'Outfit';
+    font-style: normal;
     color:rgb(18, 18, 18);
     font-size: 55px;
     padding-bottom: 50px;
@@ -115,6 +114,8 @@ button{
 }
 
 .footer__Left__Container{
+    font-family: 'Outfit';
+    font-style: normal;
     padding-top: 50px;
     padding-left: 150px;
 }
